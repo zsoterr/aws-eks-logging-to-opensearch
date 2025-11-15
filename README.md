@@ -1,4 +1,12 @@
-# Róbert: I'm going to make changes to the code so that it works with newer versions.
+# THIS repo:
+
+**Status: Archived / Reference only**  
+This repository is a fork and is kept for reference only.  
+No active development is performed here.
+
+Feel free to browse the code, but please refer to original repository for up-to-date, maintained versions.
+
+© 2025 Róbert Zsótér
 --------
 
 # Centralizing AWS EKS Cluster logs to AWS OpenSearch with Fluent Bit
