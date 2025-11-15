@@ -1,3 +1,6 @@
+# Róbert: I'm going to make changes to the code so that it works with newer versions.
+--------
+
 # Centralizing AWS EKS Cluster logs to AWS OpenSearch with Fluent Bit
 Centralizing AWS EKS Cluster logs to AWS OpenSearch with Fluent Bit
 
